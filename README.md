@@ -1,6 +1,6 @@
 <div align='center' style=" background-color: #F4B41A;  text-align: center; color: #143D59; border: 5px outset #143D59;">
   <h2 align='center' style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">Najy Fannnoun</h2>
-  <p align='center' style="font-family:'Courier New'; font-weight: bold;">Software Developer</p>
+  <p align='center' style="font-family:'Courier New'; font-weight: bold;">Computer Scientist</p>
 </div>
 
   
@@ -9,11 +9,11 @@
 
   
 
-<p  align='center'>My name is Najy Fannoun and I'm a software developer. I'm from Palestine, living in Hebron and I have BcS in Computer Science.
-
+<p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6; ">
+  Hello! I'm <strong>Najy Fannnoun</strong>, a passionate Software Engineer with a Master's degree in <strong>Computer Science</strong>. I thrive on creating innovative solutions and solving complex problems through technology.
 </p>
 
-<p  align='center'>You can find me on <a  align="center" href="https://github.com/NajyFannoun/NajyFannoun">LinkedIn</a>. </p>
+<p  align='center'>You can find me on <a  align="center" href="https://www.linkedin.com/in/najyfannoun/">LinkedIn</a>. </p>
 
   
 
@@ -37,7 +37,31 @@ Apart from coding, I also write content on [Medium](https://medium.com/@najyfann
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Hasura.io-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-  
+![](https://img.shields.io/badge/Code-.NET%20Core-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Google%20Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Unity%203D-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GoLang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MAUI%20Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Apple%20Vision%20Pro%20Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI/CD-Continuous%20Integration%20%26%20Deployment-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Project%20Management-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Documentation-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Emerging%20Technologies-Machine%20Learning-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Emerging%20Technologies-Internet%20of%20Things-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 <a  href="https://github.com/NajyFannoun/NajyFannoun">
